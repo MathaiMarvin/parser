@@ -8,7 +8,7 @@ Serve this directory using `python3 -m http.server 8000`, then open `http://loca
 
 ## GitHub Pages
 
-In repository **Settings → Pages**, select **Deploy from a branch**, branch **main**, folder **/(root)**. The static site will be available at `https://mathaimarvin.github.io/uzima-parser/`. HTTPS is recommended for confidential statements.
+This site deploys from the `main` branch root. The public URL is `https://mathaimarvin.github.io/parser/`. HTTPS is recommended for confidential statements.
 
 ## Data checks
 
