@@ -1,6 +1,6 @@
-# Uzima Statement Studio
+#  Statement Studio
 
-A browser-only converter for Uzima Havillah SACCO fixed-width TXT member and bank statements. Upload one or more TXT files, review and edit extracted rows, then download an Excel workbook with one sheet per file. Files are processed locally; there is no server or account.
+A browser-only converter for fixed-width TXT member and bank statements. Upload one or more TXT files, review and edit extracted rows, then download an Excel workbook with one sheet per file. Files are processed locally; there is no server or account.
 
 ## Run locally
 
